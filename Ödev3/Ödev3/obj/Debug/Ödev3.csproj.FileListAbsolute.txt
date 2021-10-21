@@ -1,0 +1,10 @@
+C:\Users\Baran\source\repos\Ödev3\Ödev3\bin\Debug\Ödev3.exe.config
+C:\Users\Baran\source\repos\Ödev3\Ödev3\bin\Debug\Ödev3.exe
+C:\Users\Baran\source\repos\Ödev3\Ödev3\bin\Debug\Ödev3.pdb
+C:\Users\Baran\source\repos\Ödev3\Ödev3\obj\Debug\Ödev3.csproj.AssemblyReference.cache
+C:\Users\Baran\source\repos\Ödev3\Ödev3\obj\Debug\Ödev3.Form1.resources
+C:\Users\Baran\source\repos\Ödev3\Ödev3\obj\Debug\Ödev3.Properties.Resources.resources
+C:\Users\Baran\source\repos\Ödev3\Ödev3\obj\Debug\Ödev3.csproj.GenerateResource.cache
+C:\Users\Baran\source\repos\Ödev3\Ödev3\obj\Debug\Ödev3.csproj.CoreCompileInputs.cache
+C:\Users\Baran\source\repos\Ödev3\Ödev3\obj\Debug\Ödev3.exe
+C:\Users\Baran\source\repos\Ödev3\Ödev3\obj\Debug\Ödev3.pdb
